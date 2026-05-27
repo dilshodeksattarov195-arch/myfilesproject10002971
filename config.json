@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdpdate",
+        "uuid": 9011043,
+        "checksum": "do3kod"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
